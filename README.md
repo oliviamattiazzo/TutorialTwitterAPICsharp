@@ -7,7 +7,7 @@ As três etapas consistem no seguinte:
 * [**Parte 2 - Criação e configuração do projeto no Visual Studio**](https://oliviamattiazzo.dev/2020/08/23/tutorial-twitter-api-csharp-parte2/), da maneira que eu gosto, e criação da classe de autorização (que é quem vai te ligar de fato à API do Twitter)
 * [**Parte 3 - Construção do método de “pegar” tweets de um usuário**](https://oliviamattiazzo.dev/2020/09/07/tutorial-twitter-api-csharp-parte3/) e exibição em um console
 
-<img src="https://img.shields.io/static/v1?label=VisualStudio&message=2019&color=blue&logo=visual-studio"><img src="https://img.shields.io/static/v1?label=.NET&message=Core&color=green">
+<img src="https://img.shields.io/static/v1?label=VisualStudio&message=2019&color=blue&logo=visual-studio"> <img src="https://img.shields.io/static/v1?label=.NET&message=Core&color=green">
 
 ## Como usar?
 1. É necessário que você tenha uma conta no Twitter e uma App criada no [Twitter For Developers](https://developer.twitter.com/en)
