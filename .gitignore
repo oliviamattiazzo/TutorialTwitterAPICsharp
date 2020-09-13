@@ -1,0 +1,6 @@
+TutorialTwitterAPICsharp/AuthorizationKeys.xml
+
+TutorialTwitterAPICsharp/bin/**
+TutorialTwitterAPICsharp/obj/**
+
+.vs
